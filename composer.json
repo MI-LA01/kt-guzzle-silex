@@ -1,7 +1,8 @@
 {
-    "name": "guzzle/silex-provider",
+    "name": "mi-la01/kt_guzzle-silex",
     "type": "silex-provider",
-    "description": "Guzzle silex provider",
+    "description": "Guzzle3 silex provider (kt)",
+    "license": "MIT",
     "keywords": ["Guzzle", "Silex"],
     "authors": [
         {
@@ -15,10 +16,5 @@
     },
     "autoload": {
         "classmap": [ "GuzzleServiceProvider.php" ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
     }
 }
